@@ -1,0 +1,21 @@
+{
+    "name": "lxx/test",
+    "description": "pp",
+    "type": "1",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lxx\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lxx",
+            "email": "193104423@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
